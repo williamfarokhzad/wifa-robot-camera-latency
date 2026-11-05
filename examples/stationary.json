@@ -1,0 +1,10 @@
+{
+  "poses": [
+    {"time_ms": 0, "camera_x_mm": 12},
+    {"time_ms": 40, "camera_x_mm": 12},
+    {"time_ms": 80, "camera_x_mm": 12}
+  ],
+  "frames": [
+    {"capture_ms": 10, "arrival_ms": 75, "target_from_camera_mm": 88}
+  ]
+}

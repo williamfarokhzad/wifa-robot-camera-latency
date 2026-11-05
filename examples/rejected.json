@@ -1,0 +1,14 @@
+{
+  "poses": [
+    {"time_ms": 20, "camera_x_mm": 4},
+    {"time_ms": 40, "camera_x_mm": 8},
+    {"time_ms": 120, "camera_x_mm": 24},
+    {"time_ms": 160, "camera_x_mm": 32}
+  ],
+  "frames": [
+    {"capture_ms": 30, "arrival_ms": 115, "target_from_camera_mm": 94},
+    {"capture_ms": 75, "arrival_ms": 125, "target_from_camera_mm": 85},
+    {"capture_ms": 10, "arrival_ms": 40, "target_from_camera_mm": 98},
+    {"capture_ms": 120, "arrival_ms": 175, "target_from_camera_mm": 76}
+  ]
+}
